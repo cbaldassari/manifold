@@ -15,6 +15,6 @@ The provided Python notebooks [manifold_1](https://github.com/cbaldassari/manifo
 You can download a copy of all the files in this repository by cloning the
 [git](https://github.com/cbaldassari/manifold) repository:
 ```
-    git clone https://github.com/cbaldassari/gmm_init
+    git clone https://github.com/cbaldassari/manifold
 ```
 or [download a zip archive](https://github.com/cbaldassari/manifold/archive/refs/heads/main.zip).
