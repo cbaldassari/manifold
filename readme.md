@@ -1,7 +1,7 @@
 # Group detection in energy commodity markets through manifold-informed Wasserstein barycenter
 
 by
-Cristiano Baldassari.
+Cristiano Baldassari,
 Carlo Mari.
 
 This repository contains the code to reproduce all the results reported in the paper Group detection in energy commodity markets through manifold-informed Wasserstein barycenter.
