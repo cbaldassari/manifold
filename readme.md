@@ -9,7 +9,7 @@ This repository contains the code to reproduce all the results reported in the p
 
 ## Reproducing the results
 
-This repo provides the Python notebooks [step 1](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter.ipynb), [step 2](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-generateviz.ipynb), [step 3](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-wassgmmcalibration.ipynb) containing the code to implement the method we propose in the paper and covers all the steps of the following analysis workflow:
+This repo provides the Python notebooks [step 1](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter.ipynb), [step 2](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-generateviz.ipynb), [step 3](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-wassgmmcalibration.ipynb) containing the code to implement the method we propose in the paper and covers all the steps of the following analytic workflow:
 
 ![Workflow](https://github.com/cbaldassari/manifold/blob/main/wf.png)
 ## Getting the code
