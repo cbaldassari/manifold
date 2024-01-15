@@ -29,10 +29,10 @@ This repo provides the Python notebooks [step 1](https://github.com/cbaldassari/
 
 
 ### Workflow: first stage
-<img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf1.png" width=50% height=50%>
+<img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf1.png" width=25% height=25%>
 
 ### Workflow: second stage
-<img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf2.png" width=50% height=50%>
+<img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf2.png" width=25% height=25%>
 
 
 ## Getting the code
