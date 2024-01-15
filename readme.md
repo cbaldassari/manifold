@@ -6,7 +6,8 @@ Carlo Mari.
 
 This repository contains the code to reproduce all the results reported in the paper Group detection in energy commodity markets through manifold-informed Wasserstein barycenter.
 
-##Abstract
+## Abstract
+
 A new approach based on unsupervised Machine Learning techniques is proposed
 to explore the complex interconnections between the dynamics of energy commodity
 prices, such as oil, gas and electricity prices in the USA, and the dynamics of certain
