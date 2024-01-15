@@ -28,8 +28,9 @@ energy commodity prices is also discussed.
 This repo provides the Python notebooks [step 1](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter.ipynb), [step 2](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-generateviz.ipynb), [step 3](https://github.com/cbaldassari/manifold/blob/main/manifold-informed-wasserstein-barycenter-wassgmmcalibration.ipynb) containing the code to implement the method we propose in the paper and covers all the steps of the following analytic workflow, divided in two steps:
 
 
-
+### Workflow: first stage ###
 <img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf1.png" width=50% height=50%>
+### Workflow: seconf stage ###
 <img src="https://github.com/cbaldassari/manifold/blob/23243b873b8515ee9f9694c39b3fc8fb43e91b10/wf2.png" width=50% height=50%>
 
 
